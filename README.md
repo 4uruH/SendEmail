@@ -1,0 +1,1 @@
+Script for sending several emails using python
